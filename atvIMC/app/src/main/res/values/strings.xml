@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocorroAlguemExcluaAndroidStudio</string>
+    <string name="imc">IMC</string>
+    <string name="altura">altura</string>
+    <string name="peso" />
+    <string name="button">Button</string>
+    <string name="Peso">peso</string>
+</resources>
