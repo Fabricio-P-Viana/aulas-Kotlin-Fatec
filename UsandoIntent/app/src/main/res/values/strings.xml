@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UsandoIntent</string>
+    <string name="bem_vindo_a">Bem-vindo(a)</string>
+    <string name="exemplificando_o_uso_do_sqlite_e_do_intent">Exemplificando o uso do SQLite e do Intent</string>
+    <string name="acessa_tela_1">Acessa tela 1</string>
+    <string name="acessa_tela_2">Acessa tela 2</string>
+    <string name="acessa_tela_3">Acessa Tela 3</string>
+    <string name="sair">Sair</string>
+    <string name="bem_vindo_a_ao_exemplo_de_tela_construida_com_o_constraintlayout">Bem-vindo(a) ao exemplo de tela construida com o ConstraintLayout</string>
+    <string name="voltar_para_menu_principal">Voltar para menu principal</string>
+    <string name="proxima_tela" />
+    <string name="bem_vindo_a_tela_1">Bem-vindo(a) tela 1</string>
+    <string name="voltar">voltar</string>
+    <string name="ol_bem_vindo_a_tela_1">Olá, Bem-vindo(a) tela 1</string>
+    <string name="voltar_menu_principal">voltar Menu principal</string>
+    <string name="pr_xima_tela">Próxima tela</string>
+</resources>
